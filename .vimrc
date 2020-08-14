@@ -7,6 +7,9 @@
 :set paste
 :set mouse=v
 syntax on
+:set wrap!
+:set sidescroll=1
+:set scrolloff=10
 :hi LineNr cterm=bold ctermfg=DarkGrey ctermbg=NONE
 :hi CursorLineNr cterm=bold ctermfg=Green ctermbg=NONE
 
